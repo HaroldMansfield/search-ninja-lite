@@ -144,6 +144,14 @@ No API keys. No external services. No configuration. The skill works with the se
 
 ---
 
+## Release Information
+
+Current version: `1.0.0`
+
+Release notes are tracked in [CHANGELOG.md](CHANGELOG.md). The release process and safety review checklist are documented in [RELEASES.md](RELEASES.md).
+
+---
+
 ## About Seeker One
 
 Search Ninja Lite was created by Harold Mansfield, founder and researcher at [Seeker One](https://seeker.one).
